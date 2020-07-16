@@ -1,0 +1,19 @@
+{
+  "products":[
+      { 
+        "id": 1,
+        "name": "The last of us part I",
+        "price": 25.90
+      },
+      { 
+        "id": 2,
+        "name": "The last of us part II",
+        "price": 25.90
+      },
+      { 
+        "id": 3,
+        "name": "Star Wars Battlefront II",
+        "price": 25.90
+      }
+  ]
+}
